@@ -1,4 +1,2 @@
-Bio:
-I am a computer science student who recently completed a few courses on Java and Python. 
-I am interested in learning more about programming, and I am also working through the material
-available on The Odin Project.
+I am a computer science student currently working through the material
+available on The Odin Project in addition to the projects assigned for my classes and the problems on leetcode.
