@@ -1,2 +1,3 @@
-I am a computer science student currently working through the material
-available on The Odin Project in addition to the projects assigned for my classes and the problems on leetcode.
+I am a computer science student at UMGC. Most of the projects I am
+working on are either related to specfic courses I am taking, or
+to help me learn more about web development.
